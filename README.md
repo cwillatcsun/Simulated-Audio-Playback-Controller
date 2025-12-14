@@ -9,7 +9,7 @@ The controller simulates an audio playback controller via a virtual terminal and
 like Windows Media Player (legacy) and YouTube.
 
 ## Block Diagram
-![Block Diagram](https://drive.google.com/file/d/1Czb3amkzAuwW3Lakj-6neb6yRdmsj_Za/view?usp=drive_link)
+![Block Diagram](https://github.com/cwillatcsun/Simulated-Audio-Playback-Controller/blob/main/12-01%20Block%20Diagram.png)
 
 ## Proof of Concept
 [Proof of Concept Video](https://drive.google.com/file/d/1C5ZuwYTkT2P83YuSmVBJ3hzLGpKehiuy/view?usp=drive_link)
