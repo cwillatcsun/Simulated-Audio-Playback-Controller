@@ -71,7 +71,7 @@ While seemingly simple to a viewer, little quirks in display functionality was t
 - When the counter iterates back past zero seconds, overflow occurs. Therefore, any number greater than a certain value (71 actual) needs to be manually set to zero.
 - Preventing miscounting when skipping over a minute marker, or back a minute marker.
 
-Originally, the project scope was to make an audio player + controller using an external DAC and Speaker system. The DAC I order was sourced from Shanghai, China, and was lost in international shipping.
+Originally, the project scope was to make an audio player + controller using an external DAC and Speaker system. The DAC I ordered was sourced from Shanghai, China, and was lost in international shipping.
 
 However, a quick pivot allowed the project to function as a simulated version of the project’s objective, which proves the Tiva C Series’ capabilities to act as an audio playback controller. This form of thinking and adjustment is the
 hallmark of a successful engineer within a fast-paced working environment.
